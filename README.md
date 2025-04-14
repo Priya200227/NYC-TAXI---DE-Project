@@ -15,6 +15,7 @@ In this project **Medallion Architecture** is used
      - Data Factory: for orchestrating the data pipeline and moving data
      - Databricks: for scalable data processing and transformations using PySpark/SQL
      - Cloud Storage - Data Lake: for storing raw (Bronze), transformed (Silver), and aggregated (Gold) data.
+     - **PowerBI** - Used for connecting to Azure Databricks (or the processed data in the Data Lake) to visualize the analyzed data and create insightful dashboards.
 
 ## **Dataset Used**
    **NYC Taxi Trip Data - Green Line**
