@@ -23,7 +23,7 @@ This repository contains the code and documentation for a data engineering proje
 Original Dataset - https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2023-01.parquet
 
 ## **Scripts for Project**
-1. Bronze - bronze.zip
-2. Silver
-3. Gold
+1. Bronze - (bronze.zip)
+2. Silver - (silver.dbc)
+3. Gold - (gold.dbc)
 
